@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lt.invoices.invoiceApp.InvoiceAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.979 s - in lt.invoices.invoiceApp.InvoiceAppApplicationTests
