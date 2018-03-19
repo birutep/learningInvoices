@@ -1,9 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: lt.invoices.invoiceApp.InvoiceAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.723 s <<< FAILURE! - in lt.invoices.invoiceApp.InvoiceAppApplicationTests
-contextLoads(lt.invoices.invoiceApp.InvoiceAppApplicationTests)  Time elapsed: 0 s  <<< ERROR!
-java.lang.IllegalStateException: Failed to load ApplicationContext
-Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: @Column(s) not allowed on a @ManyToOne property: lt.invoices.invoiceApp.good.GoodModel.invoiceId
-Caused by: org.hibernate.AnnotationException: @Column(s) not allowed on a @ManyToOne property: lt.invoices.invoiceApp.good.GoodModel.invoiceId
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 174.395 s - in lt.invoices.invoiceApp.InvoiceAppApplicationTests

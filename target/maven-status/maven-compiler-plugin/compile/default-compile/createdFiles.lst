@@ -1,9 +1,0 @@
-lt\invoices\invoiceApp\good\GoodRepository.class
-lt\invoices\invoiceApp\good\GoodModel.class
-lt\invoices\invoiceApp\InvoiceAppApplication.class
-lt\invoices\invoiceApp\invoice\InvoiceRepository.class
-lt\invoices\invoiceApp\good\GoodController.class
-lt\invoices\invoiceApp\invoice\InvoiceServices.class
-lt\invoices\invoiceApp\invoice\InvoiceModel.class
-lt\invoices\invoiceApp\good\GoodServices.class
-lt\invoices\invoiceApp\invoice\InvoiceController.class

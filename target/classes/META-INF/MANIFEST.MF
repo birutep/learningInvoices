@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: invoiceApp
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Tomas P
+Built-By: JP17-2
 Implementation-Vendor-Id: lt.invoices
-Build-Jdk: 1.8.0_161
+Build-Jdk: 1.8.0_151
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/invoiceApp
 Created-By: Maven Integration for Eclipse
